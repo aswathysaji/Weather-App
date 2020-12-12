@@ -1,3 +1,5 @@
 # Weather-App
 
-Weather Ap created using Javascript and the weather data is obtained using API.
+Weather App created using Javascript and the weather data is obtained using API.
+
+![Desktop view](https://github.com/aswathysaji/Weather-App/blob/main/weather.jpg?raw=true)
